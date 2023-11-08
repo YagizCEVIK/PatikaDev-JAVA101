@@ -28,7 +28,7 @@ public class Ring {
                         System.out.println("Kazanan %50 şansla" + f1.name + " olacak");
                         artis += 1;
                     } else if (sayi == 1) {
-                        System.out.println("Kazanan %50 şansla"+ f2.name + " olacak");
+                        System.out.println("Kazanan  %50 şansla"+ f2.name + " olacak");
                         artis += 1;
                     }
                 }
